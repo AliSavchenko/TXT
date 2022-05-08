@@ -1,0 +1,5 @@
+Name - Alina,
+Surname - Savchenko,
+age - 33,
+pets - 1 cat,
+sallary - 1500 euro
